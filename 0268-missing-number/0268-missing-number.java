@@ -1,11 +1,11 @@
 class Solution {
     public int missingNumber(int[] nums) {
         int n = nums.length;
-        int numsum=0;
-        int totalsum=(n*(n+1))/2;
-        for(int i=0;i<nums.length;i++){
-             numsum += nums[i];
+        int xor=0;
+        for (int i = 0; i < n; i++) {
+            xor = xor ^ nums[i] ^ (i);
         }
-        return totalsum-numsum;
+       xor = xor ^ n;
+        return xor;
     }
 }
