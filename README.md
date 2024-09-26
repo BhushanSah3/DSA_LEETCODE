@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
 ## Array
 |  |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -45,4 +47,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1829-maximum-units-on-a-truck](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
