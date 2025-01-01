@@ -13,12 +13,12 @@ class Solution {
 
   
     private static int calculateSum(int start, int end) {
-        //return (end - start + 1) * (start + end) / 2;
-     int sum = 0;
-    for (int i = start; i <= end; i++) {
-        sum += i; // Add each number to the sum
-    }
-    return sum;
+        return (end - start + 1) * (start + end) / 2;
+    //  int sum = 0;
+    // for (int i = start; i <= end; i++) {
+    //     sum += i; // Add each number to the sum
+    // }
+    // return sum;
     } 
 
 }
