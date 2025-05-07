@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1018-largest-perimeter-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1829-maximum-units-on-a-truck](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
 ## Hash Table
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [2571-find-the-pivot-integer](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/2571-find-the-pivot-integer) |
 ## Two Pointers
 |  |
