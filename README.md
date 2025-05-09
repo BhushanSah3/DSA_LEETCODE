@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0118-pascals-triangle) |
 | [0455-assign-cookies](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0455-assign-cookies) |
@@ -147,5 +148,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
