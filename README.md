@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0890-lemonade-change](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1018-largest-perimeter-triangle) |
+| [1293-three-consecutive-odds](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1293-three-consecutive-odds) |
 | [1829-maximum-units-on-a-truck](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Hash Table
