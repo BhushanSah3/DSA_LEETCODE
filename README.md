@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-three-consecutive-odds](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1293-three-consecutive-odds) |
 | [1829-maximum-units-on-a-truck](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2215-finding-3-digit-even-numbers](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [2215-finding-3-digit-even-numbers](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1829-maximum-units-on-a-truck](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2215-finding-3-digit-even-numbers](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -167,4 +170,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
+## Enumeration
+|  |
+| ------- |
+| [2215-finding-3-digit-even-numbers](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
