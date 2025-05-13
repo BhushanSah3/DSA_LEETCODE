@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0060-permutation-sequence](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0060-permutation-sequence) |
 | [0342-power-of-four](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0342-power-of-four) |
 | [1018-largest-perimeter-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1018-largest-perimeter-triangle) |
+| [2288-count-operations-to-obtain-zero](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
 | [2571-find-the-pivot-integer](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/2571-find-the-pivot-integer) |
 ## Bit Manipulation
 |  |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
+| [2288-count-operations-to-obtain-zero](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
 ## Union Find
 |  |
 | ------- |
