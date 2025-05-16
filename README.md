@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1018-largest-perimeter-triangle) |
+| [1036-rotting-oranges](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1036-rotting-oranges) |
 | [1293-three-consecutive-odds](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1293-three-consecutive-odds) |
 | [1829-maximum-units-on-a-truck](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1036-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1036-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
