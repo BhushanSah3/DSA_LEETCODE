@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 ## Array
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 ## Tree
 |  |
