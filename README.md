@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1829-maximum-units-on-a-truck](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
+| [3321-type-of-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1829-maximum-units-on-a-truck](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
+| [3321-type-of-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/3321-type-of-triangle) |
 ## Sliding Window
 |  |
 | ------- |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [2288-count-operations-to-obtain-zero](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
 | [2571-find-the-pivot-integer](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/2571-find-the-pivot-integer) |
+| [3321-type-of-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
