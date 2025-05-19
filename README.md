@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0547-number-of-provinces](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1036-rotting-oranges) |
 ## Binary Search Tree
 |  |
@@ -183,10 +185,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0801-is-graph-bipartite) |
 ## Enumeration
 |  |
 | ------- |
