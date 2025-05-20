@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0118-pascals-triangle) |
 | [0455-assign-cookies](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -198,4 +200,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
