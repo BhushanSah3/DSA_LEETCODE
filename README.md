@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
@@ -223,4 +224,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0210-course-schedule-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
