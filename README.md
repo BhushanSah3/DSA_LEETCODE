@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0048-rotate-image) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1829-maximum-units-on-a-truck](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 ## Tree
