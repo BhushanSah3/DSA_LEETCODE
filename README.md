@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0090-subsets-ii) |
 ## Topological Sort
