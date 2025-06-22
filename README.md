@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0342-power-of-four) |
 | [1018-largest-perimeter-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [2032-largest-odd-number-in-string](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/2032-largest-odd-number-in-string) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0542-01-matrix) |
@@ -259,4 +261,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
