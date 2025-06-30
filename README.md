@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0213-house-robber-ii) |
 | [0455-assign-cookies](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0503-next-greater-element-ii) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 ## Matrix
