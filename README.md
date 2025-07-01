@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/2032-largest-odd-number-in-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/3617-find-the-original-typed-string-i) |
 ## Array
 |  |
 | ------- |
