@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0890-lemonade-change) |
+| [0967-minimum-falling-path-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0967-minimum-falling-path-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1036-rotting-oranges) |
 | [1293-three-consecutive-odds](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1293-three-consecutive-odds) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0967-minimum-falling-path-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0967-minimum-falling-path-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0733-flood-fill) |
+| [0967-minimum-falling-path-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1036-rotting-oranges) |
 ## Simulation
 |  |
