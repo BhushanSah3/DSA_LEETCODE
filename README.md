@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0678-valid-parenthesis-string](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1078-remove-outermost-parentheses) |
+| [1170-shortest-common-supersequence](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [2032-largest-odd-number-in-string](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/3617-find-the-original-typed-string-i) |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0967-minimum-falling-path-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0967-minimum-falling-path-sum) |
+| [1170-shortest-common-supersequence](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1250-longest-common-subsequence) |
 ## Matrix
 |  |
