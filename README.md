@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0131-palindrome-partitioning) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0890-lemonade-change) |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0060-permutation-sequence) |
 | [0342-power-of-four](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0342-power-of-four) |
 ## Prefix Sum
@@ -211,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0064-minimum-path-sum) |
