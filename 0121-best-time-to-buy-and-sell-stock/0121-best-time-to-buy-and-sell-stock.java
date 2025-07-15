@@ -3,16 +3,16 @@ class Solution {
         int maxProfit = 0;
         int profit = 0;
         int cp = Integer.MAX_VALUE;
-        for (int i = 0; i < prices.length; i++) {
-            if (prices[i] < cp) {
-                cp = prices[i];
-            } else {
-                profit = prices[i] - cp;
-            }
-            if (profit > maxProfit) {
-                maxProfit = profit;
-            }
-        }
+        // for (int i = 0; i < prices.length; i++) {
+        //     if (prices[i] < cp) {
+        //         cp = prices[i];
+        //     } else {
+        //         profit = prices[i] - cp;
+        //     }
+        //     if (profit > maxProfit) {
+        //         maxProfit = profit;
+        //     }
+        // }
        // return maxProfit;
 
        int mincost=prices[0];
