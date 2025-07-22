@@ -43,8 +43,15 @@ class Solution {
                     lineId = y1 * dx - x1 * dy;
                 }
 
-                slopeToLinesMap.computeIfAbsent(slopeKey, k -> new HashMap<>())
-                               .merge(lineId, 1, Integer::sum);
+                // Get the map of lines for the current slope.
+                Map<Long, Integer> linesMap = slopeToLinesMap.get(slopeKey);
+                // If no map exists for this slope, create one.
+                if (linesMap == null) {
+                    linesMap = new HashMap<>();
+                    slopeToLinesMap.put(slopeKey, linesMap);
+                }
+                // Increment the count for the specific line.
+                linesMap.put(lineId, linesMap.getOrDefault(lineId, 0) + 1);
             }
         }
 
@@ -67,7 +74,16 @@ class Solution {
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
                 String key = ((long)points[i][0] + points[j][0]) + "," + ((long)points[i][1] + points[j][1]);
-                midPointMap.computeIfAbsent(key, k -> new ArrayList<>()).add(new int[]{i, j});
+                
+                // Get the list of diagonals for the current midpoint.
+                List<int[]> diagonalList = midPointMap.get(key);
+                // If no list exists for this midpoint, create one.
+                if (diagonalList == null) {
+                    diagonalList = new ArrayList<>();
+                    midPointMap.put(key, diagonalList);
+                }
+                // Add the current diagonal to the list.
+                diagonalList.add(new int[]{i, j});
             }
         }
 
@@ -95,7 +111,7 @@ class Solution {
                     }
                     slopeKey = norm_dy + "/" + norm_dx;
                 }
-                diagonalSlopeCount.merge(slopeKey, 1, Integer::sum);
+                diagonalSlopeCount.put(slopeKey, diagonalSlopeCount.getOrDefault(slopeKey, 0) + 1);
             }
             
             long totalPairs = (long)k * (k - 1) / 2;
