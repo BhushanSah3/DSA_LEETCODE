@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0494-target-sum) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0783-search-in-a-binary-search-tree](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0518-coin-change-ii) |
