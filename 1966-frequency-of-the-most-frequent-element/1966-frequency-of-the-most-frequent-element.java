@@ -1,20 +1,24 @@
 class Solution {
     public int maxFrequency(int[] nums, int k) {
         Arrays.sort(nums);
-        int n = nums.length;
-        int winlen=0;
-        int  freq = 1, l = 0, r = 0;
-        long total =0;
+        int left = 0;
+        long curr = 0;
+        
+        for (int right = 0; right < nums.length; right++) {
+            long target = nums[right];
+            curr += target; 
 
-        for (r = 0; r < n; r++) {
-             total +=nums[r];
+            // window_size = (right - left + 1) 
+            //target_sum = window_size * target
+            //cost = target_sum - curr 
+            // cost > k: If our required cost is more than our budget k, the window is invalid. We must shrink it by moving the left pointer forward and subtracting nums[left] from our curr sum.
 
-            while ((long) nums[r] * (r-l+1) > total +k) { // while the condition written in copy is not valid 
-                total=total -nums[l]; // we subtract as we are moving ahead the left pointer 
-                l++;
+            if ((right - left + 1) * target - curr > k) {
+                curr -= nums[left];
+                left++;
             }
-            freq =Math.max(r-l+1, freq);
         }
-        return  freq;
+        ;
+        return (nums.length - 1) - left + 1;
     }
 }
