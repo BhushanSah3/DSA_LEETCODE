@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 ## Tree
