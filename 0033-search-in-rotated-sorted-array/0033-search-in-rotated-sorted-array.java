@@ -1,43 +1,33 @@
 class Solution {
-    public int find (int arr[],int  tar, int si, int ei){
-        int mid=(si+(ei-si)/2);
+    public int search(int[] nums, int target) {
+        int low=0, high =nums.length-1;
 
-        //base case
-        if(si>ei){
-            return -1;
-        }
+        while(low<=high){
+            int mid =(low+high)/2;
+            if(nums[mid]== target){
+                return mid;
+            }
 
-        if(tar==arr[mid]){
-            return mid;
-        } 
-        // Determine which side is properly sorted
-         //lie on l1 line
-        if(arr[si]<=arr[mid]){
-             //case a only left
-             if(arr[si]<=tar && tar<=arr[mid]){
-               return find(arr,tar,si,mid-1);
-             }// case b   whole right
-             else{
-               return find(arr,tar,mid+1,ei);
-             }    
-        }
-        // in Line 2
-        else{
-            // case c right
-            if(arr[mid]< tar && tar<=arr[ei]){
-                return find(arr,tar,mid+1,ei);
+            //the left side is sortred 
+            if(nums[low]<= nums[mid]){
+                if(target>=nums[low] && target<=nums[mid]){
+                    high =mid-1;
+                }else{
+                    low=mid+1;
+                }
+                
             }else{
-                // case d whole left side
-                return find(arr,tar,si,mid-1); 
+                //on the right
+                if(target>= nums[mid] && target<= nums[high]){
+                    low=mid+1;
+                }else{
+                    high=mid-1;
+                }
+                
             }
 
         }
-    }
-
-    public int search(int[] arr, int tar) {
-        int si = 0;
-        int ei = arr.length - 1;
-        int targetindex=find(arr,tar,si,ei);
-        return targetindex;
+        return -1;
+        
     }
 }
