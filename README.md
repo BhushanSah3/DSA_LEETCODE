@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
