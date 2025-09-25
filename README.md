@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0046-permutations) |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
