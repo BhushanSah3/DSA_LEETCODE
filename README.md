@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0890-lemonade-change) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0907-koko-eating-bananas](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0967-minimum-falling-path-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1036-rotting-oranges) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
+| [0907-koko-eating-bananas](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
