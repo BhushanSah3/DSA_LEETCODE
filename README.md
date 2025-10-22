@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0312-burst-balloons) |
 | [0416-partition-equal-subset-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1018-largest-perimeter-triangle) |
