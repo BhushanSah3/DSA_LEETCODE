@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0060-permutation-sequence) |
 | [0342-power-of-four](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0342-power-of-four) |
@@ -375,4 +376,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0175-combine-two-tables](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0183-customers-who-never-order) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
