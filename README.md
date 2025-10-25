@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0232-implement-queue-using-stacks) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0143-reorder-list) |
 | [0342-power-of-four](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0342-power-of-four) |
 ## Prefix Sum
 |  |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 ## Tree
@@ -382,4 +385,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
