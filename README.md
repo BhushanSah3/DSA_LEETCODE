@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0115-distinct-subsequences) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0064-minimum-path-sum) |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
@@ -146,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0455-assign-cookies) |
