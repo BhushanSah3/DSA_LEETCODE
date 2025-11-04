@@ -7,12 +7,23 @@ class Solution {
         HashMap<String, List<String>> hm=new HashMap<>();
 
         for(String s: strs){
-            char[] charr= s.toCharArray();
-            Arrays.sort(charr);
+            int[] freq=new int[26];
+            for(int i=0;i<s.length();i++){
+                freq[s.charAt(i)-'a']++;
+            }
 
-            String sorted =new String(charr);
-            hm.putIfAbsent(sorted, new ArrayList<>());
-            hm.get(sorted).add(s);
+            // StringBuilder sb=new StringBuilder();
+            // for(int i=0;i<freq.length;i++){
+            //     sb.append(freq[i]).append('#');
+
+            // }
+            // String key =sb.toString();
+
+            //we can do this dorect conversion of frqarray to astring which is intutive but using stringbuilder it says uses less memory 
+            String key=Arrays.toString(freq);
+
+            hm.putIfAbsent(key, new ArrayList<>());
+            hm.get(key).add(s);
 
             
 
