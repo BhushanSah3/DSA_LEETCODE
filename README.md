@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0733-flood-fill) |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 ## Breadth-First Search
@@ -285,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
