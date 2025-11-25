@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0312-burst-balloons) |
+| [0347-top-k-frequent-elements](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0494-target-sum) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -390,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0902-minimum-number-of-refueling-stops) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Memoization
@@ -409,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Database
 |  |
 | ------- |
@@ -425,4 +430,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0572-subtree-of-another-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
