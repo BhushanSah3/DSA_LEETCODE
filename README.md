@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2571-find-the-pivot-integer](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/2571-find-the-pivot-integer) |
