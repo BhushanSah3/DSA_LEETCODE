@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0371-sum-of-two-integers) |
 ## Recursion
@@ -415,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Database
 |  |
