@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0902-minimum-number-of-refueling-stops](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0907-koko-eating-bananas](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0967-minimum-falling-path-sum) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1036-rotting-oranges) |
 | [1184-distance-between-bus-stops](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1184-distance-between-bus-stops) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0890-lemonade-change) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1829-maximum-units-on-a-truck](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
