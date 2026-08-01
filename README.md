@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0322-coin-change) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0190-reverse-bits) |
+| [0287-find-the-duplicate-number](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0371-sum-of-two-integers) |
 ## Recursion
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 ## Tree
 |  |
@@ -306,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
