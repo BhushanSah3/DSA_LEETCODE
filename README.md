@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2215-finding-3-digit-even-numbers](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/3321-type-of-triangle) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Hash Table
 |  |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/BhushanSah3/DSA_LEETCODE/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Monotonic Stack
 |  |
